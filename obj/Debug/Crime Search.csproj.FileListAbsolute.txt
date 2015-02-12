@@ -1,0 +1,15 @@
+C:\Users\Gerald XXI\Desktop\Crime Search\bin\Debug\Crime Search.exe.config
+C:\Users\Gerald XXI\Desktop\Crime Search\bin\Debug\Crime Search.exe.manifest
+C:\Users\Gerald XXI\Desktop\Crime Search\bin\Debug\Crime Search.application
+C:\Users\Gerald XXI\Desktop\Crime Search\bin\Debug\Crime Search.exe
+C:\Users\Gerald XXI\Desktop\Crime Search\bin\Debug\Crime Search.pdb
+C:\Users\Gerald XXI\Desktop\Crime Search\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Gerald XXI\Desktop\Crime Search\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Gerald XXI\Desktop\Crime Search\obj\Debug\Crime Search.csprojResolveAssemblyReference.cache
+C:\Users\Gerald XXI\Desktop\Crime Search\obj\Debug\Crime_Search.CrimeSearch.resources
+C:\Users\Gerald XXI\Desktop\Crime Search\obj\Debug\Crime_Search.Properties.Resources.resources
+C:\Users\Gerald XXI\Desktop\Crime Search\obj\Debug\Crime Search.csproj.GenerateResource.Cache
+C:\Users\Gerald XXI\Desktop\Crime Search\obj\Debug\Crime Search.exe.manifest
+C:\Users\Gerald XXI\Desktop\Crime Search\obj\Debug\Crime Search.application
+C:\Users\Gerald XXI\Desktop\Crime Search\obj\Debug\Crime Search.exe
+C:\Users\Gerald XXI\Desktop\Crime Search\obj\Debug\Crime Search.pdb
